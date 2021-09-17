@@ -1,0 +1,19 @@
+{
+  "name": "event-target",
+  "version": "1.0.0",
+  "description": "Provides ways to check an event target element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoineGuglielmi/event-target.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntoineGuglielmi/event-target/issues"
+  },
+  "homepage": "https://github.com/AntoineGuglielmi/event-target#readme"
+}

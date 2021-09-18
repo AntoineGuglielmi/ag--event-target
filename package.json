@@ -1,8 +1,8 @@
 {
-  "name": "event-target",
+  "name": "ag--event-target",
   "version": "1.0.0",
-  "description": "Provides ways to check an event target element",
-  "main": "index.js",
+  "description": "event-target is an event target library that offers ways to check the element which event is targeting.",
+  "main": "EventTarget.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/AntoineGuglielmi/event-target.git"
   },
-  "author": "",
+  "keywords": [
+    "eventListener",
+    "event",
+    "target"
+  ],
+  "author": "AntoineGuglielmi",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/AntoineGuglielmi/event-target/issues"
